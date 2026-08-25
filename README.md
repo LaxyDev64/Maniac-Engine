@@ -110,6 +110,7 @@ Maniac Engine/
 - Original engine: **SEGA** / *Sonic Mania* team (Christian Whitehead, Headcannon, PagodaWest Games)
 - Base decompilation: **RSDK Modding** community
 - This project's development: *LaxyDev64/LaxStudio*
+- and to the modders for the mods used for the engine
 
 ---
 
