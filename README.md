@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/status-in%20development-yellow" alt="status">
   <img src="https://img.shields.io/badge/base-RSDKv5U-blue" alt="engine">
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey" alt="platform">
+  <img src="https://img.shields.io/badge/platform-android-lightgrey" alt="platform">
 </p>
 
 ---
