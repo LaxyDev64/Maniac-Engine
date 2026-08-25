@@ -16,27 +16,27 @@
 
 ---
 
-## 📖 About the project
+## About the project
 
 **Maniac Engine** is a game engine derived from **RSDKv5U** (Retro Engine v5), the original engine behind *Sonic Mania*, built on top of the [decompilation](https://github.com/RSDKModding/Sonic-Mania-Decompilation) maintained by the RSDK Modding community.
 
 The goal of the project is to take that technical foundation (physics, rendering, scene system, collisions, audio) and adapt it to build **original games** — not mods or one-off conversions, but a reusable engine to develop different projects on top of.
 
-> ⚠️ This is a non-profit fan project. Not affiliated with SEGA. Requires a legitimate copy of Sonic Mania to compile and run, since it relies on base files from the original engine.
+> This is a non-profit fan project. Not affiliated with SEGA. Requires a legitimate copy of Sonic Mania to compile and run, since it relies on base files from the original engine.
 
 ---
 
-## ✨ Features
+##  Features
 
-- ⚙️ Built on the real **RSDKv5U** engine (physics, camera, collisions, scenes, audio)
-- 🎨 Graphics system compatible with Mania-style sprites, tilesets, and palettes
-- 🗺️ Scene and level editing via **RetroED**
-- 📦 Asset packaging (`Data.rsdk`) using community-made tools
-- 🧩 Designed as a reusable base for multiple projects/games, not a single game
+- Built on the real **RSDKv5U** engine (physics, camera, collisions, scenes, audio)
+-  Graphics system compatible with Mania-style sprites, tilesets, and palettes
+-  Scene and level editing via **RetroED**
+-  Asset packaging (`Data.rsdk`) using community-made tools
+- Designed as a reusable base for multiple projects/games, not a single game
 
 ---
 
-## 🧰 Technical requirements
+## Technical requirements
 
 To compile the engine you need:
 
@@ -52,7 +52,7 @@ libtheora libogg glew glfw3 sdl2
 
 ---
 
-## 🚀 Building
+##  Building
 
 ```powershell
 git clone --recursive https://github.com/RSDKModding/Sonic-Mania-Decompilation
@@ -74,7 +74,7 @@ Place your `Data.rsdk` (from your legitimate copy of Sonic Mania) there to run t
 
 ---
 
-## 🗂️ Project structure
+##  Project structure
 
 ```
 Maniac Engine/
@@ -86,7 +86,7 @@ Maniac Engine/
 
 ---
 
-## 🛠️ Tools used
+##  Tools used
 
 | Tool | Purpose |
 |---|---|
@@ -96,7 +96,7 @@ Maniac Engine/
 
 ---
 
-## 📌 Current status
+##  Current status
 
 - [x] Engine compiled and running from source
 - [x] Dev Menu enabled
@@ -105,7 +105,7 @@ Maniac Engine/
 
 ---
 
-## 📜 Credits
+## Credits
 
 - Original engine: **SEGA** / *Sonic Mania* team (Christian Whitehead, Headcannon, PagodaWest Games)
 - Base decompilation: **RSDK Modding** community
